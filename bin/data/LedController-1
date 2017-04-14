@@ -1,0 +1,12 @@
+<panel>
+	<group>
+		<UDP>1</UDP>
+		<PixInLed>42</PixInLed>
+		<X>-4</X>
+		<Y>4</Y>
+		<W>1440</W>
+		<H>793</H>
+		<LedType>1</LedType>
+	</group>
+<panel/>
+</panel>

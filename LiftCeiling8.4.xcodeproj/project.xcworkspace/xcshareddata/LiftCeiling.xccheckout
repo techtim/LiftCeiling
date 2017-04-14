@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CAEC19E6-2EA0-4B8C-AAC7-563F8363AB59</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBC5E2A29F125165AEBCAA19E4D8FC06D99494BA</key>
+		<string>https://github.com/pusnik/ofxAVFVideoPlayer.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EBC5E2A29F125165AEBCAA19E4D8FC06D99494BA</key>
+		<string>ofxAVFVideoPlayer/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pusnik/ofxAVFVideoPlayer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBC5E2A29F125165AEBCAA19E4D8FC06D99494BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBC5E2A29F125165AEBCAA19E4D8FC06D99494BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxAVFVideoPlayer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
